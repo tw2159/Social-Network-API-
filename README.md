@@ -8,6 +8,8 @@ An API for a social network web application where users can share their thoughts
 * Video #2 https://watch.screencastify.com/v/3m4YCCSvy35aGgeEXghO
 * Video #3 https://watch.screencastify.com/v/PzlB4rNIgjPiQTOYapPO
 * Video #4 https://watch.screencastify.com/v/TxviZwa6YAE3IZKu7JG9
+* Video #5 https://watch.screencastify.com/v/0y1foUPLjZ0kvB6XoGBl
+* Video #6 https://watch.screencastify.com/v/5dN1KNoe7N7H5C2QPVAU
 
 ## Built With
 * Node.js
