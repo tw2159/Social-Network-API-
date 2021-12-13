@@ -4,10 +4,10 @@
 An API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. 
 
 ## Video Walkthroughs
-* Video #1
-* Video #2
-* Video #3
-* Video #4
+* Video #1 https://watch.screencastify.com/v/58SvCbi9b8seBpjGhUAq
+* Video #2 https://watch.screencastify.com/v/3m4YCCSvy35aGgeEXghO
+* Video #3 https://watch.screencastify.com/v/PzlB4rNIgjPiQTOYapPO
+* Video #4 https://watch.screencastify.com/v/TxviZwa6YAE3IZKu7JG9
 
 ## Built With
 * Node.js

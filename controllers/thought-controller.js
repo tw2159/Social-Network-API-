@@ -39,8 +39,8 @@ const thoughtController = {
       })
       .then(data => {
         if(!data) {
-          res.status(404).json({ message: 'Error!  No user found with this id!' });
-          return;
+        res.status(404).json({ message: 'Error!  No user found with this id!' });
+        return;
         }
         res.json(data);
       })
